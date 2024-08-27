@@ -1,0 +1,9 @@
+
+@media (min-width: 992px) {
+    .card-img-top {
+      height: 340px; 
+      width: 100%; 
+      object-fit: cover;
+    }
+  }
+  
